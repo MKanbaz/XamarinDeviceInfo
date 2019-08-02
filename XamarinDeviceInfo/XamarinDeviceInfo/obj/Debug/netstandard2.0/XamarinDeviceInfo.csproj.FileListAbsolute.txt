@@ -1,0 +1,12 @@
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\bin\Debug\netstandard2.0\XamarinDeviceInfo.deps.json
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\bin\Debug\netstandard2.0\XamarinDeviceInfo.dll
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\bin\Debug\netstandard2.0\XamarinDeviceInfo.pdb
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\XamarinDeviceInfo.csprojAssemblyReference.cache
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\XamarinDeviceInfo.csproj.CoreCompileInputs.cache
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\XamarinDeviceInfo.AssemblyInfoInputs.cache
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\XamarinDeviceInfo.AssemblyInfo.cs
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\XamarinDeviceInfo.dll
+C:\Users\mkanb\source\repos\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo\obj\Debug\netstandard2.0\XamarinDeviceInfo.pdb
