@@ -1,2 +1,2 @@
 ## Get device information with Xamarin
-!(https://github.com/MKanbaz/.NET-MVC/blob/master/mvc.png "Get device information with Xamarin")
+!(http://www.mehmetkanbaz.com.tr/wp-content/uploads/2019/08/xamarindeviceinfo.png "Get device information with Xamarin")
